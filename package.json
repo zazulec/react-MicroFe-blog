@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "blog-micro-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0"
   }
 }
